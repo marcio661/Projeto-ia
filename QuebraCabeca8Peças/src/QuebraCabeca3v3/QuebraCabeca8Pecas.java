@@ -4,7 +4,7 @@ import java.util.*;
 public class QuebraCabeca8Pecas {
 
     public static void main(String[] args) {
-        System.out.println("Márcio Luis Cipriano de Souza e João Vitor Leão Marques");
+        System.out.println("Márcio Luis Cipriano de Souza e Marilene Rodrigues Santana");
         System.out.println("Materia de I.A");
         int[][] initialBoard = getInputBoard("Digite a configuração inicial (separe os números por espaço):");
         int[][] targetBoard = getInputBoard("Digite a configuração desejada (separe os números por espaço):");
